@@ -36,7 +36,9 @@ O jogo utiliza os seguintes recursos gráficos:
 
 ## 📸 Capturas de Tela
 
-*(Adicione aqui prints do jogo rodando para ilustrar)*
+![Print do jogo Mario Jump](https://raw.githubusercontent.com/Daniel64017/Jogo-MarioJump/d74a89b098814fb30af4060553d1254f21598524/Captura%20de%20tela%202025-05-27%20163457.png)
+
+![Print do jogo Mario Jump](https://raw.githubusercontent.com/Daniel64017/Jogo-MarioJump/d74a89b098814fb30af4060553d1254f21598524/Captura%20de%20tela%202025-05-27%20163514.png)
 
 ## 📌 Status do Projeto
 
